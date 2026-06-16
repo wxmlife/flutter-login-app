@@ -1,5 +1,4 @@
-# myapp
-
+# mynight
 A new Flutter project.
 
 ## Getting Started
@@ -16,8 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# Flutter Login App 🔐
-
+# MyNight 🔐
 一个基于 Flutter 3 + Material 3 设计的精美登录页面。
 
 ## ✨ 功能特性
@@ -32,9 +30,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## 🚀 在线预览
 
-**GitHub Pages:** [https://wxmlife.github.io/flutter-login-app/](https://wxmlife.github.io/flutter-login-app/)
-
-> ⚠️ 首次部署后约 1-2 分钟可访问，Actions 运行中可查看 [Workflows](https://github.com/wxmlife/flutter-login-app/actions)
+**GitHub Pages:** [https://wxmlife.github.io/mynight/](https://wxmlife.github.io/mynight/)
 
 ## 🛠️ 技术栈
 
@@ -46,4 +42,5 @@ samples, guidance on mobile development, and a full API reference.
 | GitHub Actions | CI/CD 自动构建与部署 |
 
 ## 📦 本地运行
+
 
